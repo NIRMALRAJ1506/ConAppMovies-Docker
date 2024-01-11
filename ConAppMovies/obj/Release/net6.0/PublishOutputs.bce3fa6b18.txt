@@ -1,0 +1,5 @@
+C:\Application Testing Mphasis\Day 5\ConAppMovies\ConAppMovies\bin\Release\net6.0\publish\ConAppMovies.exe
+C:\Application Testing Mphasis\Day 5\ConAppMovies\ConAppMovies\bin\Release\net6.0\publish\ConAppMovies.dll
+C:\Application Testing Mphasis\Day 5\ConAppMovies\ConAppMovies\bin\Release\net6.0\publish\ConAppMovies.deps.json
+C:\Application Testing Mphasis\Day 5\ConAppMovies\ConAppMovies\bin\Release\net6.0\publish\ConAppMovies.runtimeconfig.json
+C:\Application Testing Mphasis\Day 5\ConAppMovies\ConAppMovies\bin\Release\net6.0\publish\ConAppMovies.pdb
